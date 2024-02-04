@@ -1,0 +1,92 @@
+[33mcommit a18c43aaa2fad8b995c19b8e7d0e1dc1075f100a[m[33m ([m[1;36mHEAD -> [m[1;32mstage[m[33m)[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sun Feb 4 11:49:19 2024 +0000
+
+    testing
+
+[33mcommit 9cc3ece7713560fc975af8d98cf08b7fbb5ab323[m[33m ([m[1;31mpay/stage[m[33m)[m
+Merge: b122957 8ef8d7c
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sun Feb 4 11:23:27 2024 +0000
+
+    Merge branch 'development'
+    Changes reviewed and approved
+
+[33mcommit 8ef8d7c773f814e99bfeeef7ef355dd916398fbe[m[33m ([m[1;31mpay/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sun Feb 4 11:20:09 2024 +0000
+
+    radme file created
+
+[33mcommit b12295752f4a9312ea9eab863e21a746c33c3641[m
+Author: ZtefuDevOps <40791239+ztefu@users.noreply.github.com>
+Date:   Sat Feb 3 10:26:48 2024 +0100
+
+    web app added
+
+[33mcommit 4c0387fef85e000d903b1e3338913fb21cee6b65[m
+Author: BernardDevOps <158256725+BernardDevOps@users.noreply.github.com>
+Date:   Sat Feb 3 10:21:01 2024 +0100
+
+    Update with python applications
+
+[33mcommit 75accd4220a2e4a6e60605eda849d87d14af1da0[m
+Merge: 4f0c413 ffe0589
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sat Feb 3 09:12:57 2024 +0000
+
+    merge conflict resolved
+
+[33mcommit 4f0c413e587baf3b7e3cceffc13a5de81c1161b9[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sat Feb 3 09:06:18 2024 +0000
+
+    .net master apps
+
+[33mcommit ffe058957d218c435fe96081a87532598fe389a7[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sat Feb 3 09:01:43 2024 +0000
+
+    nodeJS apps
+
+[33mcommit ea95ef4de58cee0a70590bba0e422ef0d033d8e1[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Sat Feb 3 08:39:50 2024 +0000
+
+    dev commit 1
+
+[33mcommit c935377571314fca3f8fa9549923a9074621ddbe[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Fri Feb 2 13:25:14 2024 +0000
+
+    Great indeed
+
+[33mcommit f0c481d1b3ff20d2f99ea92bcb2cd10f235eded2[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Fri Feb 2 13:13:25 2024 +0000
+
+    great application
+
+[33mcommit b2c6dcc24ecd5a46cef5950321126aaf7e39c7bc[m
+Author: ZtefuDevOps <40791239+ztefu@users.noreply.github.com>
+Date:   Fri Feb 2 13:41:54 2024 +0100
+
+    Update userMgt.java
+
+[33mcommit 79f4a24e8bcffa8b67a7d30b5c2088b6225e6dae[m
+Author: ZtefuDevOps <40791239+ztefu@users.noreply.github.com>
+Date:   Fri Feb 2 12:56:41 2024 +0100
+
+    Update userMgt.java
+
+[33mcommit 3b85b43fcb503303973dbead2a03d8bccb4b1162[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Fri Feb 2 11:45:44 2024 +0000
+
+    second commit
+
+[33mcommit a7c3816a9bbf9ff433d9faa748d116d7f4e65bc7[m
+Author: BernardDevOps <sennetdupont3@gmail.com>
+Date:   Fri Feb 2 11:10:35 2024 +0000
+
+    my 1st commit
